@@ -1,0 +1,19 @@
+# Interfaces e Web
+streamlit==1.33.0
+
+# IA e Processamento de Linguagem
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-huggingface==0.0.1
+langchain-text-splitters==0.0.1
+gpt4all==2.7.0
+
+# Manipulação de Dados (PDF, Excel)
+pypdf==4.2.0
+unstructured==0.13.3
+openpyxl==3.1.2
+msoffcrypto-tool==5.0.1
+
+# Vetorização e Busca
+faiss-cpu==1.8.0
+sentence-transformers==2.7.0
