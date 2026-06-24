@@ -24,6 +24,12 @@ O **FinGuia** é um assistente financeiro educacional guiado por IA, focado em t
 3. **Inicie o FinGuia**
     streamlit run src/app.py
 
+## 📸 Demonstração do FinGuia
+
+Veja abaixo o assistente em funcionamento, consultando a base de conhecimento de forma segura:
+
+![FinGuia em Ação](docs/print.jpg)
+
 ## 🛡 Segurança e DevSecOps
 Este projeto foi desenhado sob a premissa de Zero PII (Personally Identifiable Information) on Cloud. Todo o processamento ocorre via modelos de linguagem abertos, garantindo a soberania dos dados do usuário final.
 

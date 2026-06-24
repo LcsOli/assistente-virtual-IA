@@ -3,4 +3,5 @@ __pycache__/
 .env
 models/
 *.gguf
-data/
+data/catalogo_produtos_financeiros.xlsx
+data/manual_seguranca_faq.pdf
